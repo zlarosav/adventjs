@@ -39,11 +39,11 @@ function findFirstRepeated(gifts) {
 // ----------------------------------------------------- //
 
 function findFirstRepeated(gifts) {
-   const count = {}
+   const seen = {}
      
    for (let gift of gifts) {
-     if (count[gift]) return gift
-     count[gift] = true
+     if (seen[gift]) return gift
+     seen[gift] = true
    }
    
    return -1
