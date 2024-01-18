@@ -1,8 +1,8 @@
 # AdventJS - by midudev
 
-- Página principal: [AdventJS](https://adventjs.dev/es)
-- Idioma usado: Español 🇪🇸
-- Estado del proyecto: Iniciado 🟡
+- **Página principal:** [AdventJS](https://adventjs.dev/es)
+- **Idioma usado:** Español 🇪🇸
+- **Estado del proyecto:** Iniciado 🟡
 
 ## 🦠 2021
 
