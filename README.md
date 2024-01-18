@@ -1,8 +1,10 @@
-# AdventJS - by midudev
+# :santa::christmas_tree: AdventJS [![adventJS](https://img.shields.io/badge/adventJS-fbbf24?style=flat-square&logo=JavaScript&logoColor=000000)](https://adventjs.dev) [![#adventjs hashtag](https://img.shields.io/badge/-%23adventJS-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/search?q=%23adventjs&src=recent_search_click&f=live) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-- **Página principal:** [AdventJS](https://adventjs.dev/es)
-- **Idioma usado:** Español 🇪🇸
-- **Estado del proyecto:** Iniciado 🟡
+
+- **Página de retos:** [AdventJS](https://adventjs.dev/es)
+- **Idioma general:** Español 🇪🇸
+- **Lenguaje preferido:** JavaScript
+- **Estado de las resoluciones:** 🟡 En progreso 
 
 ## 🦠 2021
 
