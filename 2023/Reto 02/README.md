@@ -2,7 +2,7 @@
 
 |    Estado   |Puntaje Máximo| Dificultad |
 |:-----------:|:------------:|:------------:|
-| 🟢 [Resuelto](https://github.com/zlarosav/adventjs/blob/main/2023/Reto%2001/reto02.js) |  270 puntos  | Fácil |
+| 🟢 [Resuelto](https://github.com/zlarosav/adventjs/blob/main/2023/Reto%2002/reto02.js) |  270 puntos  | Fácil |
 
 ## Instrucciones
 
